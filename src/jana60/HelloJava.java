@@ -7,6 +7,7 @@ public class HelloJava {
  
 		System.out.println("Hello Java!");
 		System.out.println("Ciao Biagio!");
+		System.out.println("Ho modificato il file");
 
 	}
 
